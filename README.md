@@ -26,8 +26,11 @@ O jogo é voltado para dispositivos mobile e utiliza a funcionalidade "Engine" p
 
 Atualmente, há falhas no input em dispositivos mobile com Android. No entanto, o jogo funciona normalmente em PCs com Windows e Linux.
 
+<h1>Slides da Apresentação</h1>
+link do slide: https://view.genial.ly/648b71c82e00760018993135/interactive-content-starforce
 
-Como compilar e executar o jogo
+
+<h1>Como compilar e executar o jogo</h1>
 
 Para compilar e executar o jogo, siga as instruções abaixo:
 
